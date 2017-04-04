@@ -37,8 +37,8 @@
     <body>
         <div class="container">
             <div class="content">
-//{name} merupakan variable yang berisi nama
-                <div class="title">Hello {{$name}}, Selamat Belajar Laravel :)</div>
+// merupakan variable yang berisi nama
+                <div class="title">Hello , Selamat Belajar Laravel :)</div>
             </div>
         </div>
     </body>
